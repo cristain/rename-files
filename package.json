@@ -1,0 +1,9 @@
+{
+    "name": "RenameFiles",
+    "description": "Rename files to lowercase and dash instead of underscore",
+    "version": "0.0.1",
+    "dependencies": {
+        "glob": "*",
+        "gulp": "^3.9.1"
+    }
+}
